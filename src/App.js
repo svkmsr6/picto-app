@@ -4,7 +4,7 @@ import PictureView from './components/PictureView/PictureView';
 // import logo from './logo.svg';
 import './App.css';
 
-const url = 'http://starlord.hackerearth.com/insta';
+//const url = 'http://starlord.hackerearth.com/insta';
 
 class App extends Component {
 
